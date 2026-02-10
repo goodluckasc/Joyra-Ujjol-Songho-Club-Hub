@@ -1,0 +1,9 @@
+{
+  "name": "Joyra Ujjol Songho Club Hub",
+  "description": "A premium club management application featuring event RSVP, member directories, administrative controls, and a real-time WhatsApp-style group messaging interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
